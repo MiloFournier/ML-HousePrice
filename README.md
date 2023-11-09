@@ -9,6 +9,6 @@ This is a full project of Machine Learning where there is:
 - Linear Regression Model
 - Random Forest Model with Grid Search
 
-The Linear Regression Model has a <ins>~67% accuracy</ins>.
+The Linear Regression Model has an <ins>accuracy of ~67%</ins>.
 
-The Random Forest Model with Grid Search has <ins>~82% accuracy</ins>.
+The Random Forest Model with Grid Search has an <ins>accuracy of ~82%</ins>.
